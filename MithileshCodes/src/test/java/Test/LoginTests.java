@@ -14,7 +14,7 @@ public class LoginTests extends BaseTest {
 
         LoginPage loginPage = new LoginPage(driver);
 
-        loginPage.login("work.mithileshg@gmail.com", "*******");
+        loginPage.login("work.mithileshg@gmail.com", "@Login9892");
 
         // Validation (adjust based on actual page)
         String currentUrl = driver.getCurrentUrl();
