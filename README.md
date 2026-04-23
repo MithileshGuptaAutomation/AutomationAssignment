@@ -1,4 +1,4 @@
-# 🧪 QA Automation Assignment
+# Automation Assignment on login flow of Website.co.in
 
 This project is an automated test framework built using **Java, Selenium WebDriver, and TestNG** to validate the user flow from registration/login to dashboard.
 ---
